@@ -1,6 +1,6 @@
 # Selection sort
 
-#Installation
+# Installation
 
 Install with go get:
 
