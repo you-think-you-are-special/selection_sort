@@ -10,7 +10,7 @@ go get github.com/you-think-you-are-special/selection_sort
 
 Then include the package in your imports:
 ```
-import "github.com/fabioberger/sort"
+import "github.com/you-think-you-are-special/selection_sort"
 ```
 
 # Running Tests
